@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\obj\\Debug\\net8.0\\compressed\\ayulos0b8p.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ShopOnline.web.styles.css",
+      "PackagePath": "staticwebassets\\ShopOnline.web.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Beauty\\Beauty1.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Beauty\\Beauty2.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Beauty\\Beauty3.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Beauty\\Beauty4.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Beauty\\Beauty5.png",
+      "PackagePath": "staticwebassets\\Images\\Beauty\\Beauty5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Electronic\\Electronics1.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Electronic\\Electronics3.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\Electronics3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Electronic\\electronic4.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Electronic\\electronic5.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronic5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Electronic\\electronics2.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\electronics2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Electronic\\technology6.png",
+      "PackagePath": "staticwebassets\\Images\\Electronic\\technology6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Furniture\\Furniture1.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Furniture\\Furniture2.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Furniture\\Furniture3.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Furniture\\Furniture4.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Furniture\\Furniture6.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Furniture\\Furniture7.png",
+      "PackagePath": "staticwebassets\\Images\\Furniture\\Furniture7.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Shoes\\Shoes1.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Shoes\\Shoes2.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Shoes\\Shoes3.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Shoes\\Shoes5.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Shoes\\Shoes6.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\Shoes6.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\Images\\Shoes\\shoes4.png",
+      "PackagePath": "staticwebassets\\Images\\Shoes\\shoes4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\JS\\ShoppingCart.js",
+      "PackagePath": "staticwebassets\\JS\\ShoppingCart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mausam\\source\\repos\\ShopOnlineSolution\\ShopOnline.web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopOnline.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopOnline.web.props",
+      "PackagePath": "build\\ShopOnline.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopOnline.web.props",
+      "PackagePath": "buildMultiTargeting\\ShopOnline.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopOnline.web.props",
+      "PackagePath": "buildTransitive\\ShopOnline.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
